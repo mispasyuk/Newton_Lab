@@ -1,0 +1,3 @@
+C:/Mary/HSE University/Programming/newton/cmake-build-debug/CMakeFiles/newton.dir
+C:/Mary/HSE University/Programming/newton/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Mary/HSE University/Programming/newton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
